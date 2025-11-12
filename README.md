@@ -41,4 +41,4 @@ Autoscaling proved essential to maintain performance under load, and observabili
 ---
 
 **Author:** *Anupama Tiwari*  
-*Week 6 – GKE Autoscaling & Observability Assignment*
+*Week 7 – GKE Autoscaling & Observability Assignment*
