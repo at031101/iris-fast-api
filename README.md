@@ -1,4 +1,4 @@
-# Week 6: Autoscaling and Observability for Iris Classification API on GKE
+# Week 7: Autoscaling and Observability for Iris Classification API on GKE
 
 This project extends the Week 5 CI/CD pipeline by deploying the Iris Classification FastAPI model to **Google Kubernetes Engine (GKE)** and enabling **horizontal pod autoscaling (HPA)**, logging, and performance observability.
 
